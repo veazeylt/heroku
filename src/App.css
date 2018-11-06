@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  margin: 10px;
+}
+
+.box{
+  margin-left: 50px;
+  margin-right: 50px
+}
+
+.inputRow{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(65, 24, 24, 0.719);
+}
+
+.dataRow{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.thingsInRow{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-image: url(https://cdn.zmescience.com/wp-content/uploads/2018/02/coffee-beans-1500828083WmI-1.jpg);
+  background-repeat: no-repeat;
+  background-size: flex;
+  background-color: brown;
+
+}
+
+.title{
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.whiteText{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.whiteTextBox{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 50px;
+  margin-right: 50px
+}
+
+.whiteTextWithUnder{
+  color: white;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.boxWithWhiteText{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  border-width: 5px;
+  border-color: white;
+  outline-style: solid;
+  outline-color: bisque;
+  background-color: rgba(189, 189, 189, 0.527)
+}
